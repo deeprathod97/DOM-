@@ -1,0 +1,16 @@
+body.light-theme {
+    background-color: white;
+    color: black;
+}
+
+
+body.dark-theme {
+    background-color: black;
+    color: white;
+}
+
+#themeButton {
+    margin: 20px;
+    padding: 10px;
+    cursor: pointer;
+}
